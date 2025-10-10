@@ -20,3 +20,6 @@
 _School of Software Design and Data Science \(SDDS\)_
 
 _Seneca College of Applied Arts and Technology_
+
+_Now called the School of Computer Programming and Analysis in Seneca Polytechnic_
+
